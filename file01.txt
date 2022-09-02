@@ -7,8 +7,9 @@ hello git
 hello git
 hello g22222222
 hello git
-hello git
-hello git
+hello git hot-fix
+hello git hot-fix
+
  rg
  rg
  我修改了功能hot-fix
@@ -27,4 +28,3 @@ hello git
 
 
 :wq
-
